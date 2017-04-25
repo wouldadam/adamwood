@@ -1,17 +1,18 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Adam Wood
+description: The personal site of Adam Wood
+url: "https://adamwood.org" # the base hostname & protocol for your site
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Adam Wood
+user_description: >- 
+  I am a software engineer based in th UK. I have 8+ years of experience delivering high performance data 
+  analysis and visualisation software. I have worked in a variety of roles including system architecture, 
+  delivery, test and client support. I have experience leading teams and managing individuals.
+user_title: Software Engineer
+email: contact@adamwood.org
+github_username:  wouldadam
+cv_location: #
 
 # Google-analytics
 google-analytics:
