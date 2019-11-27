@@ -6,9 +6,9 @@ url: "https://adamwood.org" # the base hostname & protocol for your site
 # User settings
 username: Adam Wood
 user_description: >- 
-  I am a software engineer based in th UK. I have 8+ years of experience delivering high performance data 
-  analysis and visualisation software. I have worked in a variety of roles including system architecture, 
-  delivery, test and client support. I have experience leading teams and managing individuals.
+  Software Engineer with experience delivering unique solutions in challenging environments. Breadth of knowledge
+  covering embedded systems, data processing, visualisation and user interfaces. Experience working directly with 
+  technical and non-technical end users in Developer, Technical Lead, Product Owner and Project Management roles.
 user_title: Software Engineer
 email: contact@adamwood.org
 github_username:  wouldadam
@@ -18,4 +18,4 @@ cv_location: #
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['package.json', 'gulpfile.js', 'package-lock.json', 'particle.jpg', 'README.md', 'yarn.lock', 'src' , 'node_modules']
